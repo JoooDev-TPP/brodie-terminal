@@ -1,6 +1,6 @@
 {
- "block": 115118222,
- "generated": "2026-11-15T17:16:15Z",
+ "block": 115214252,
+ "generated": "2026-11-15T20:13:00Z",
  "transfers": 41752,
  "minted": 829451376.2926846,
  "burned": 6538161.004038159,
@@ -2392,5 +2392,5 @@
   "tx": "0xbd13d3fa1eae1b09a0034a9f8b203dc0c14e3bac43b268bfc22dbb4f28d3324b",
   "t": 1791829089
  },
- "v1_in_poolmanager": 3016418.1858673715
+ "v1_in_poolmanager": 3023205.3962801564
 }
